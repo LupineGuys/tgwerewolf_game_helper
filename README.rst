@@ -12,7 +12,14 @@ install pyrogram and re
     $ pip3 install re
     
 these commands are for Linux server. if you use Windows,  use ``pip`` instead of  ``pip3``
+.. code:: shell
 
+    $ pip install pyrogram 
+
+    $ pip install re
+    
+    
+edit bot settings according to your needs
 .. code:: python
     
     # let it True if you want to confirm games with TSWW
